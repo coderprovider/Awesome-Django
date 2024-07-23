@@ -3,13 +3,13 @@ name: Add a new project
 about: Suggest a new Django project for the Awesome Django list
 title: "[NEW] Project Name"
 labels: new project
-assignees: ''
+assignees: ""
 ---
 
 ## Project Information
 
-1. **Project Name:** 
-2. **Project URL:** 
+1. **Project Name:**
+2. **Project URL:**
 3. **Description:** _(Please provide a brief description of the project.)_
 
 ## Criteria
@@ -17,8 +17,9 @@ assignees: ''
 Please answer the following questions about the project you are submitting. This will help us evaluate if the project should be included in the Awesome Django list.
 
 1. **Is the project new?**
-   - [ ] Yes
-   - [ ] No
+
+    - [ ] Yes
+    - [ ] No
 
 2. **How long has the project been maintained?**
    _(Please provide an approximate duration in months or years.)_
@@ -27,9 +28,10 @@ Please answer the following questions about the project you are submitting. This
    _(Please provide the number of releases, or link to the project's release history.)_
 
 4. **Are you the author or are you submitting the project on behalf of a company?**
-   - [ ] I am the author
-   - [ ] I am submitting on behalf of a company
-   - [ ] Other (please specify)
+
+    - [ ] I am the author
+    - [ ] I am submitting on behalf of a company
+    - [ ] Other (please specify)
 
 5. **What makes it awesome?**
    _(Please provide a brief explanation of why you believe this project is a valuable addition to the Awesome Django list.)_
