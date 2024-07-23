@@ -6,14 +6,14 @@ title: "[NEW] Project Name"
 
 ## Project Information
 
-1. **Project Name:** 
+1. **Project Name:**
 
-2. **Project URL:** 
+2. **Project URL:**
 
 3. **Description:**
    _(Please provide a brief description of the project.)_
 
-----
+---
 
 ## Criteria
 
@@ -22,8 +22,9 @@ Please answer the following questions about the project you are submitting. This
 **Note:** If your project is only a few months old or has under 50 to 100 stars on GitHub, it may NOT meet the criteria for inclusion in the Awesome Django list. We recommend that you promote your project more and then consider a submission at a later date when it has gained more visibility and community support.
 
 1. **Is the project new?**
-   - [ ] Yes
-   - [ ] No
+
+    - [ ] Yes
+    - [ ] No
 
 2. **How long has the project been maintained?**
    _(Please provide an approximate duration in months or years.)_
@@ -32,14 +33,15 @@ Please answer the following questions about the project you are submitting. This
    _(Please provide the number of releases, or link to the project's release history.)_
 
 4. **Are you the author or are you submitting the project on behalf of a company?**
-   - [ ] I am the author
-   - [ ] I am submitting on behalf of a company
-   - [ ] Other (please specify)
+
+    - [ ] I am the author
+    - [ ] I am submitting on behalf of a company
+    - [ ] Other (please specify)
 
 5. **What makes it awesome?**
    _(Please provide a brief explanation of why you believe this project is a valuable addition to the Awesome Django list.)_
 
-----
+---
 
 ## Additional Information
 
