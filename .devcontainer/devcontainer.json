@@ -4,9 +4,7 @@
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash"
   },
-  "extensions": [
-    "github.github-vscode-theme"
-  ],
+  "extensions": ["github.github-vscode-theme"],
   "forwardPorts": [4000],
   "postCreateCommand": "bundle install",
   "remoteUser": "vscode"
